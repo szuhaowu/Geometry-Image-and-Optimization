@@ -17,7 +17,7 @@
 * Linear Estimation of the planar projective transformation - DLT
 * Nonlinear Estimation of the planar projective transformation - sparse LM
 
-#### 4.Estimation of the Fundamental matrix
+#### 5.Estimation of the Fundamental matrix
 * Estimation of the Fundamental matrix Outlier rejection - RANSAC
 * Linear Estimation of the Fundamental matrix - DLT
 * Nonlinear Estimation of the Fundamental matrix - sparse LM
